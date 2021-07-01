@@ -19,6 +19,8 @@ CompuMundoHyperMegaRed-ta, te va a brindar un listado de partes necesarias para 
 ## ¿Como funciona el quiz para seleccionar posibles equipos? 
 El quiz, consiste en un conjunto de preguntas de multiple opción, el cual mediante algoritmos centrados en los requisitos de las distintas aplicaciones requeridas para el uso que le quieras brindar, va a brindar los productos de nuestro catalogo que más se ajusten a sus necesidades.
 
+## ¿Por que el ´´-ta´´ en ´´CompuMundoHyperMegaRed-ta´´? 
+El que eligio el nombre no considero correcto utilizar ´´.ta´´.Y porque el ´´.ta´´? Porque al momento de nombrar el proyecto, el que le puso el nombre se confundio ´´.ta´´ con ´´.ts´´. Y porque ´´.ts´´? porque nuestra intensión es utilizar type-script en el proyecto los archivos.
 
 ## Links:
 ### Trello: https://trello.com/b/8eo12qjx/app
