@@ -35,5 +35,9 @@ El que eligio el nombre no considero correcto utilizar ´´.ta´´.Y porque el �
 - [ ] \( Decidir prioridad de actividades )
 - [ ] \( Realizar el Poker planning )
 - [ ] \( Trasladar las actividades al trello )
+- [ ] \( Aprender typescript )
+- [ ] \( Aprender manejo de Git (como hacer un proyecto grupal, pull request, pruebas y acciones)  )
+- [ ] \( Aprender autenticación de cuenta mediante gmail/Facebook )
+- [ ] \( Buscar como hacer un chat con node y PostgreSQL )
+- [ ] \( Aprender sobre como integrar mercadopago y otros medios de pago en la página )
 - [ ] \( Crear y comenzar la aplicación )
-
